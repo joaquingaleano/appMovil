@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalMovil</string>
+    <string name="perfil_imagen">Imagen de perfil</string>
+    <string name="nombre_alumno">Luciano Joaquin Galeano</string>
+    <string name="email_alumno">joaquingaleano8@gmail.com</string>
+    <string name="informacion">Información</string>
+    <string name="informacion_descripcion">Estudiante de la carrera de Técnico Superior en Gestión en Programación e Innovación Tecnológica y Digital en el Instituto INCADE. Actualmente en constante crecimiento realizando proyectos personales.</string>
+    <string name="experiencia">Experiencia</string>
+    <string name="experiencia_descripcion">He trabajado en varios proyectos utilizando tecnologías como HTML5, CSS3, JavaScript y React. Mi experiencia incluye el desarrollo de aplicaciones web y móviles, así como la creación de sitios web responsivos.</string>
+    <string name="instagram_icon">Icono de Instagram</string>
+    <string name="github_icon">Icono de GitHub</string>
+    <string name="linkedin_icon">Icono de LinkedIn</string>
+</resources>
